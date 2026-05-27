@@ -21,8 +21,8 @@ while i < len(maior):
      #lista_intercalada.append(menor[i])
      i += 1
 
-print(f"Lista 1: " ,lista1)
-print(f"Lista 2: " ,lista2)
-print(f"Lista intercalada: ",lista_intercalada)
+print(f"Lista 1: {lista1}")
+print(f"Lista 2: {lista2}")
+print(f"Lista intercalada: {lista_intercalada})
 
     
